@@ -1,0 +1,22 @@
+section {
+    padding: 30px;
+    margin-bottom: 50px;
+    border: 2px solid red;
+}
+
+#img-section {
+    background-color: lightcoral;
+}
+
+#container-section div:not(:first-child) {
+    background-color: lightcoral;
+    border: 3px dashed aquamarine;
+}
+
+/* #first-row > div > div { */
+.box {
+    border: 2px dashed yellow;
+    background-color: red;
+    color: white;
+    padding: 30px 0;
+}
